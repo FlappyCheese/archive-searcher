@@ -1,4 +1,4 @@
-# 🏛️ Internet Archive Paginated Search Tool
+# 🏛️ Internet Archive Search Tool
 
 An interactive, paginated terminal browser for **Archive.org** with automatic virtual environment initialization.
 
