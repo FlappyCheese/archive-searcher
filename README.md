@@ -11,7 +11,7 @@ An interactive, paginated terminal browser for **Archive.org** with automatic vi
   - `Enter` or `n` ➔ Next page
   - `p` ➔ Previous page
   - `g` ➔ Jump directly to any page number
-  - `1 - 15` ➔ Instantly open that item in your default browser
+  - `1 - 50` ➔ Instantly open that item in your default browser
   - `q` ➔ Start a new search
 - ⚙️ **Automatic `.venv` Bootstrapping**: Automatically initializes `.venv` and installs `requests` and `rich` on the first launch.
 - 🎨 **Rich UI**: High-contrast tables, colored media badges, and loading indicators.
